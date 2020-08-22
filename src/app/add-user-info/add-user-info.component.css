@@ -1,0 +1,21 @@
+form{
+    padding:20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+button{
+    width:50%;
+    max-width: 200px;
+    height:56px;
+    margin-top:20px
+}
+p{
+    flex-grow: 1;
+    width:100%;
+    text-align: center;
+}
+mat-form-field{
+    width:80%;
+    max-width: 400px;
+}

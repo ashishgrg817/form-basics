@@ -1,0 +1,6 @@
+<div *ngIf="userData">
+   <p><span>User Id :</span>{{userData.userId}}</p>
+   <p> <span>Title :</span>{{userData.title}}</p>
+   <p> <span>Body :</span>{{userData.body}}</p>
+</div>
+<div *ngIf="!userData" style="text-align: center;">No Data found!</div>

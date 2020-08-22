@@ -1,0 +1,11 @@
+div{
+    padding:20px
+}
+p{
+    padding:8px;
+}
+span{
+    font-size: 1rem;
+    margin-right: 8px;
+    font-weight:bold;
+}
